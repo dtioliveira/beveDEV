@@ -1,0 +1,38 @@
+@font-face{
+	font-family: Monaco;
+	src: url(http://www.fontyukle.net/en/DownLoad-Monaco.ttf);
+}
+body{
+	font-family: Monaco;
+	font-size: 13px;
+}
+body h1{
+	font-size: 15px;
+	padding: 5px;
+}
+
+input{
+	font-family: Monaco;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #BEBEBE;
+}
+
+textarea{
+	font-family: Monaco;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #BEBEBE;
+}
+
+fieldset{
+	margin: 20px;
+}
+
+#all{
+}
+
+#Content{
+	padding-left: 100px;
+	padding-right: 100px;
+}
